@@ -29,3 +29,26 @@ java 2
    <p>Set the variable to different value and then try...</p>
  </body>
 </html>
+java2
+html>
+ <body>
+	<script type="text/javascript">
+	<!--
+			var book = "English";
+			if( book == "history" ){
+			document.write("<b>History Book</b>");
+			}
+			else if( book == "English" ){
+			document.write("<b>English Book</b>");
+			}
+			else if( book == "economics" ){
+			document.write("<b>Economics Book</b>");
+			}
+			else{
+			document.write("<b>Unknown Book</b>");
+			}
+	//-->
+	</script>
+<p>Set the variable to different value and then try...</p>
+	</body>
+<html>
